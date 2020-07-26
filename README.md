@@ -14,8 +14,16 @@ Inspired by the Stanford course Numerical Linear Algebra, I found an amazing ref
 - **Code**: The book lists a large number of repositories of numerical software such as GVL4 and Netlib. In spite of the open source packages, the lack of coding pactice in the problems is really likely to get you guys bored. Therefore, I will implement certain algorithms in Matlab whenever I found neccessray. In the same manner, coding implementations based on literature review are also worth trying. I hope more concrete industry implementation become available when our group grows up. 
 
 ### Community Interaction
-- **Contribution** admin
+- **Contribution** It is almost certainly confirmed that more and more people will get involved and contribute to this project in the forseen future while I am by myself at this moment. The first proposed management structure is the Wikipedia style that anyone can edit the profile but the modification has to be approved by admin group. 
+
+- **Crossvalidate** Any updates should be crossvalidated and peer reviewed before handing into admin. 
+
+- **Interanl Software Tool Box** This is a late game plan but we can think ahead. We need to build a tree structured knowledge graph that support smart searching and inference.
 
 ## Progress & Updates 
+7/25 update
+I just finished 90% of the work diccussed in the *Implementation* section for Chapter 1. It costs me an averege of 2 hours daily effort in about 2 months. I need 2 more weeks to convert my hand written notes, proof and pseudo code into a well formatted Latex version. In worst case scenario (no one else contribute, 12 Chapters, 2.5 months for each) , this project would take 30 months to finish, which is accidentally around my 30-year-old birthday. The Latex version would be uploaded soon. 
+
+
 ## Reference 
 [1] Golub, G. H., &amp; Loan, C. F. (2013). Matrix computations. Baltimore: Johns Hopkins University Press.
